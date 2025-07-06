@@ -1,0 +1,24 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "Learning  to conqueer the IT World",
+  "keywords": [
+    "react",
+    "storm"
+  ],
+  "homepage": "https://github.com/rishuayush439/React-Storm#readme",
+  "bugs": {
+    "url": "https://github.com/rishuayush439/React-Storm/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishuayush439/React-Storm.git"
+  },
+  "license": "ISC",
+  "author": "Ayush Mishra",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  }
+}
